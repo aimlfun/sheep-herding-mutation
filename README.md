@@ -1,4 +1,4 @@
-# sheep-herding-ga
+# sheep-herding-mutation
 
 From blog posting on https://aimlfun.com/using-sheep-because-cats-wont-herd/
 
